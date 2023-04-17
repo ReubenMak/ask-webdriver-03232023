@@ -1,0 +1,12 @@
+INFO 12:52:51:329 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 12:52:51:348 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/reubenmakarevich/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 12:55:29:792 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 12:55:29:806 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/reubenmakarevich/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:32:54:458 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:32:54:473 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/reubenmakarevich/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:34:41:480 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:34:41:496 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/reubenmakarevich/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:36:05:535 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:36:05:550 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/reubenmakarevich/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 13:38:51:572 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 13:38:51:588 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/reubenmakarevich/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
