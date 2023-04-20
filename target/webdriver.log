@@ -10,3 +10,45 @@ INFO 13:36:05:535 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using 
 INFO 13:36:05:550 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/reubenmakarevich/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
 INFO 13:38:51:572 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
 INFO 13:38:51:588 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/reubenmakarevich/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 16:39:03:844 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 16:39:03:858 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/reubenmakarevich/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 16:40:17:890 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 16:40:17:904 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/reubenmakarevich/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 16:41:12:445 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 16:41:12:457 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/reubenmakarevich/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 16:51:58:100 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 16:51:58:113 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/reubenmakarevich/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 16:52:48:801 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 16:52:48:814 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/reubenmakarevich/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 16:53:19:984 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 16:53:19:997 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/reubenmakarevich/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 17:01:27:995 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 17:01:28:010 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/reubenmakarevich/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 10:43:20:151 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 10:43:20:166 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/reubenmakarevich/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 11:00:53:079 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 11:00:53:093 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/reubenmakarevich/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 11:28:02:614 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 11:28:02:628 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/reubenmakarevich/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 11:28:53:265 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 11:28:53:281 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/reubenmakarevich/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 11:32:42:134 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 11:32:42:147 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/reubenmakarevich/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 11:33:20:223 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 11:33:20:237 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/reubenmakarevich/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 08:35:16:537 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 08:35:16:558 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/reubenmakarevich/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 08:50:22:875 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 08:50:22:891 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/reubenmakarevich/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 09:07:22:111 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 09:07:22:125 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/reubenmakarevich/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 09:14:01:624 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 09:14:01:638 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/reubenmakarevich/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 09:47:54:259 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 09:47:54:273 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/reubenmakarevich/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 09:53:40:661 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 09:53:40:676 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/reubenmakarevich/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 10:57:43:034 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 10:57:43:050 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/reubenmakarevich/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
+INFO 10:59:34:502 wdm.WebDriverManager detectDriverVersionFromBrowser:615 Using chromedriver 112.0.5615.49 (since Google Chrome 112 is installed in your machine)
+INFO 10:59:34:520 wdm.WebDriverManager exportDriver:1113 Exporting webdriver.chrome.driver as /Users/reubenmakarevich/.m2/repository/webdriver/chromedriver/mac64/112.0.5615.49/chromedriver
